@@ -24,6 +24,7 @@ html {
   text-shadow: 1px 1px 3px #000;
 }
 
-.figure {
-  hover: bold; 
+.polaroid: hover{
+  transform: rotate(0);
+  box-shadow: 2px 8px 12px rgba(0, 0, 0, .9); 
 }
